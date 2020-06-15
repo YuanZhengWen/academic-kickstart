@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: YuanZheng Wen
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: An Undergraduate Student Majoring in Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Chengdu University of Technology
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
